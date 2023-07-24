@@ -1,5 +1,5 @@
-# Proje Başlığı
+# Paper Notları
 
 Okunan paperler
 
-## Kurulum
+## ----
